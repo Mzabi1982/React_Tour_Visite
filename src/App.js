@@ -1,11 +1,12 @@
 import React, { Component } from 'react';
 import './App.scss';
+import Navbar from './Components/Navbar/Navbar'
+
 
 class App extends Component {
   render() {
-    return (
-      <h1>Hellow World</h1>
-    );
+    return  <Navbar />
+  
   }
 }
 
