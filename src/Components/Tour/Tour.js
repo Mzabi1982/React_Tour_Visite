@@ -29,7 +29,10 @@ export default class Tour extends Component {
             <h3>{city}</h3>
             <h4>{name}</h4>
     
-    <h5>infoo  <span onClick={this.fade}><i  className="fas fa-window-close"/>
+    <h5>infoo  <span id="id"  onClick={this.fade}> 
+    {!this.state.show ?
+       <i class="fas fa-arrow-down"></i> :
+        <i class="fas fa-arrow-up"></i>  } 
     
     
     </span> </h5>
