@@ -4,7 +4,7 @@
     city:'New york',
     img:'https://images.pexels.com/photos/466685/pexels-photo-466685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
     name:'New York Tour',
-    info:'skjvfhskfhsjfkhsfjkh'
+    info:'kdjfhasfkdja efuq3o qrqu rcefh e o[qeu rfeqwfuqof qhfowefuqeuf oafuaoufoqaeffadsf'
 },
 {
 
@@ -12,7 +12,7 @@
     city:'Boston',
     img:'https://images.pexels.com/photos/416998/pexels-photo-416998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
     name:'New York Tour',
-    info:'skjvfhskfhsjfkhsfjkh'
+    info:'kdjfhasfkdja efuq3o qrqu rcefh e o[qeu rfeqwfuqof qhfowefuqeuf oafuaoufoqaeffadsf'
 },
 {
 
@@ -20,7 +20,7 @@
     city:'Paris',
     img:'https://images.pexels.com/photos/338515/pexels-photo-338515.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
     name:'New York Tour',
-    info:'skjvfhskfhsjfkhsfjkh'
+    info:'kdjfhasfkdja efuq3o qrqu rcefh e o[qeu rfeqwfuqof qhfowefuqeuf oafuaoufoqaeffadsf'
 },
 {
 
@@ -28,7 +28,7 @@
     city:'Casablanca',
     img:'https://images.pexels.com/photos/943533/pexels-photo-943533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
     name:'New York Tour',
-    info:'skjvfhskfhsjfkhsfjkh'
+    info:'kdjfhasfkdja efuq3o qrqu rcefh e o[qeu rfeqwfuqof qhfowefuqeuf oafuaoufoqaeffadsf'
 }
 ];
 
