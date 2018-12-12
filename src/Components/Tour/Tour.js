@@ -8,29 +8,20 @@ export default class Tour extends Component {
   state={
     show:false
   }
-
-  remove=(e)=>{
-
-   alert(e.id);
-   
-  }
-
   fade=()=>{
   this.setState({
-    show:true
+    show:!this.state.show
   })
-
-
 
   }
   render() {
     const {img,city,info,name,id} = this.props.tour;
-    console.log(this.props.tour);
+    
     return (
       <article className="tour">
         <div className="img">
        <img width="300" src={img} alt=""/>
-       <span onClick={this.remove} className="close">
+       <span  className="close" onClick={()=>this.props.remove(id)}>
        <i class="fas fa-window-close"></i>
        </span>
         </div>
