@@ -1,4 +1,4 @@
-export const data=[{
+ const data=[{
 
     id:1,
     city:'New york',
@@ -30,4 +30,6 @@ export const data=[{
     name:'New York Tour',
     info:'skjvfhskfhsjfkhsfjkh'
 }
-]
+];
+
+export default data;

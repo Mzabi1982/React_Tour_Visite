@@ -1,13 +1,22 @@
 import React, { Component } from 'react'
 import './List.scss'
 import Tour from '../Tour/Tour'
+import data from '../data'
 
 export default class List extends Component {
+
+   state={
+     tours:data
+   }
   render() {
+    const {tours} = this.state;
     return (
       <section className="tourlist">
-      
-      <Tour/>
+      {tours.map(tour=>{
+      return (<Tour tour={tour} key={tour.id}/>)  
+
+      })}
+     
      
           
      </section>
